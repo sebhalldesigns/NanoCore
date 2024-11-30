@@ -6,5 +6,4 @@ project(NanoCore)
 # Add the executable
 add_executable(NanoCore 
     main.c
-    simple_obj.c
 )
